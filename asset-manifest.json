@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://cash70.github.io/csb-nmmlg2/static/css/main.fc5c2c69.css",
+    "main.js": "https://cash70.github.io/csb-nmmlg2/static/js/main.9df817c0.js",
+    "index.html": "https://cash70.github.io/csb-nmmlg2/index.html",
+    "main.fc5c2c69.css.map": "https://cash70.github.io/csb-nmmlg2/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://cash70.github.io/csb-nmmlg2/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
